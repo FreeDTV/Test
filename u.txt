@@ -29,12 +29,7 @@
     "ad": "nonono",
     "url": "https://www.mgtv.com/"
   },
-  {
-    "id": 19,
-    "name": "简影",
-    "ad": "maidagu",
-    "url": "https://tv.syrme.top/"
-  },
+
   {
     "id": 19,
     "name": "NO",
