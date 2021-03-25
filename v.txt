@@ -1,3 +1,26 @@
-U2FsdGVkX1/7U7Oqyi3XxyiIccnU5EhRMpSRPRUrq/7ff+DEIb4dCkB01H6V2nCd
-aHT2Ox2x/ZHwPEDFs3JvCCTYQyBmxPdvxDPIVRpHGHw+WTI/YRuZptOb3qqXlhZu
-PdrnCUxKRdovFUhaC7wvhuizoNN+/UEAf2nh47Am+8s=
+[
+  {
+    "id": 19,
+    "name": "线路一",
+    "ad": "no",
+    "url": "https://pay.520yk.cn/256/?url="
+  },
+  {
+    "id": 19,
+    "name": "线路二",
+    "ad": "llrnlzl,0755tt",
+    "url": "http://parse.aikanll.com/index.php?url="
+  },
+  {
+    "id": 19,
+    "name": "线路三",
+    "ad": "llrnlzl",
+    "url": "https://api.52jiexi.top/?url="
+  },
+  {
+    "id": 19,
+    "name": "线路四",
+    "ad": "llrnlzl",
+    "url": "https://17kyun.com/jx.php?url="
+  }
+]
