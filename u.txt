@@ -32,6 +32,12 @@
 
   {
     "id": 19,
+    "name": "团长",
+    "ad": "continuefaf,weizhenwx",
+    "url": "https://www.tzfile.com/"
+  },
+  {
+    "id": 19,
     "name": "NO",
     "ad": "maidagu",
     "url": "https://www.novipnoad.com/"
