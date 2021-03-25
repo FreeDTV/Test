@@ -69,6 +69,12 @@
       "name": "AGE动漫",
       "ad": "maidagu",
       "url": "https://www.agefans.net/"
+    },
+    {
+      "id": 19,
+      "name": "X5调试",
+      "ad": "maidagu",
+      "url": "http://debugtbs.qq.com"
     }
   ]
 
