@@ -34,5 +34,11 @@
     "name": "线路六",
     "ad": "llrnlzl",
     "url": "https://www.ckplayer.vip/jiexi/?url="
+  },
+  {
+    "id": 19,
+    "name": "线路七",
+    "ad": "llrnlzl",
+    "url": "https://jx.ivito.cn/?url="
   }
 ]
