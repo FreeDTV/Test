@@ -38,16 +38,11 @@
   },
   {
     "id": 19,
-    "name": "NO",
+    "name": "独博库",
     "ad": "maidagu",
-    "url": "https://www.novipnoad.com/"
+    "url": "https://www.duboku.tv/"
   },
-  {
-    "id": 19,
-    "name": "墨鱼",
-    "ad": "jsdocker",
-    "url": "http://www.imeijukong.com/"
-  },
+
   {
     "id": 19,
     "name": "素白",
@@ -68,9 +63,9 @@
   },
   {
     "id": 19,
-    "name": "独博库",
-    "ad": "maidagu",
-    "url": "https://www.duboku.tv/"
+    "name": "墨鱼",
+    "ad": "jsdocker",
+    "url": "http://www.imeijukong.com/"
   },
   {
     "id": 19,
