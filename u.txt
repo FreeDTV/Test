@@ -68,9 +68,9 @@
   },
   {
     "id": 19,
-    "name": "孤单",
+    "name": "独博库",
     "ad": "maidagu",
-    "url": "https://gudanys.com/"
+    "url": "https://www.duboku.tv/"
   },
   {
     "id": 19,
