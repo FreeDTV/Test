@@ -22,5 +22,11 @@
     "name": "线路四",
     "ad": "llrnlzl",
     "url": "https://17kyun.com/jx.php?url="
+  },
+  {
+    "id": 19,
+    "name": "线路五",
+    "ad": "llrnlzl",
+    "url": "https://www.pangujiexi.cc/jiexi.php?url="
   }
 ]
