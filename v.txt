@@ -26,18 +26,13 @@
   {
     "id": 19,
     "name": "线路五",
-    "ad": "llrnlzl",
+    "ad": "dacedsfa.cn,mavuz.com,cnzz.com",
     "url": "https://www.pangujiexi.cc/jiexi.php?url="
   },
+
   {
     "id": 19,
     "name": "线路六",
-    "ad": "llrnlzl",
-    "url": "https://www.ckplayer.vip/jiexi/?url="
-  },
-  {
-    "id": 19,
-    "name": "线路七",
     "ad": "llrnlzl",
     "url": "https://jx.ivito.cn/?url="
   }
