@@ -35,16 +35,11 @@
     "ad": "continuefaf,weizhenwx",
     "url": "https://www.tzfile.com/"
   },
-  {
-    "id": 7,
-    "name": "独博库",
-    "ad": "maidagu",
-    "url": "https://www.duboku.tv/"
-  },
+
   {
     "id": 8,
     "name": "素白",
-    "ad": "maidagu",
+    "ad": "jsdocker.com,rdezbie.com,maidagu.com",
     "url": "https://www.subaibai.com/"
   },
   {
