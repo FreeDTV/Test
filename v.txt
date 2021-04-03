@@ -26,7 +26,7 @@
   {
     "id": 19,
     "name": "线路五",
-    "ad": "dacedsfa.cn,mavuz.com,cnzz.com",
+    "ad": "cnzz,cqqc3,yhdtns,dacedsfa,bmbaike,wantezy,bmbaike,yeyushe,mavuz.com,chemacid,xz6d,tianwenhu,usihnbcq,miaolejieshui,jinxiuzhilv",
     "url": "https://www.pangujiexi.cc/jiexi.php?url="
   },
 
