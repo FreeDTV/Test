@@ -46,7 +46,7 @@
     "id": 19,
     "name": "奈非",
     "ad": "thunderPid,thunderurl,googletagmanager,analytics.com,6059cb598322e6675c4ddcdc",
-    "url": "https://www.nfstar.net/"
+    "url": "https://nfxhd.com/"
   },
   {
     "id": 19,
