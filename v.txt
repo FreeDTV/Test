@@ -15,24 +15,18 @@
     "id": 19,
     "name": "线路三",
     "ad": "llrnlzl",
-    "url": "https://api.52jiexi.top/?url="
-  },
-  {
-    "id": 19,
-    "name": "线路四",
-    "ad": "llrnlzl",
     "url": "https://17kyun.com/jx.php?url="
   },
   {
     "id": 19,
-    "name": "线路五",
+    "name": "线路四",
     "ad": "cnzz,cqqc3,yhdtns,dacedsfa,bmbaike,wantezy,bmbaike,yeyushe,mavuz.com,chemacid,xz6d,tianwenhu,usihnbcq,miaolejieshui,jinxiuzhilv",
     "url": "https://www.pangujiexi.cc/jiexi.php?url="
   },
 
   {
     "id": 19,
-    "name": "线路六",
+    "name": "线路五",
     "ad": "llrnlzl",
     "url": "https://jx.ivito.cn/?url="
   }
