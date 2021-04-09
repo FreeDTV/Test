@@ -29,5 +29,12 @@
     "name": "线路五",
     "ad": "llrnlzl",
     "url": "https://jx.ivito.cn/?url="
+  },
+
+  {
+    "id": 19,
+    "name": "线路六",
+    "ad": "llrnlzl",
+    "url": "https://nfxhd.com/jx/?url="
   }
 ]
