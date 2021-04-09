@@ -45,7 +45,7 @@
   {
     "id": 19,
     "name": "奈非",
-    "ad": "thunderPid,thunderurl,googletagmanager,analytics.com,6059cb598322e6675c4ddcdc",
+    "ad": "thunderPid,thunderurl,googletagmanager,analytics.com,6059cb598322e6675c4ddcdc,maidagu",
     "url": "https://nfxhd.com/"
   },
   {
@@ -53,12 +53,6 @@
     "name": "低端",
     "ad": "maidagu",
     "url": "https://ddrk.me/"
-  },
-  {
-    "id": 19,
-    "name": "墨鱼",
-    "ad": "jsdocker",
-    "url": "http://www.imeijukong.com/"
   },
   {
     "id": 19,
