@@ -9,7 +9,7 @@
     "id": 2,
     "name": "超级搜",
     "ad": "nonono",
-    "url": "https://coupon.aikanll.com/?tmp=super_search&code=fHHklr&f=web&demo_type=22"
+    "url": "https://shop.aikanll.com/?cid=BdAKk9#/"
   },
   {
     "id": 3,
